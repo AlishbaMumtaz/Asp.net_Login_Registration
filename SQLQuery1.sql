@@ -1,0 +1,5 @@
+﻿Use [C:\USERS\USER\SOURCE\REPOS\TUTDOTNET\TUTDOTNET\APP_DATA\REGISTRATION.MDF]
+Go
+exec sp_rename 'Table','UserData'
+Go
+
